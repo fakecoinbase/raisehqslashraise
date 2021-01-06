@@ -7,7 +7,7 @@
     "@raisehq/onboarding": "*",
     "@types/react": "16.9.0",
     "@types/react-dom": "16.9.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "buttercms": "^1.1.5",
     "dangerously-set-html-content": "^1.0.5",
     "dompurify": "^2.0.11",
